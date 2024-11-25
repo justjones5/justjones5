@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/justjones5/configure-ad/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/justjones5/azure-network-protocols)
-
+  - [VPN Setup and Usage within Azure](https://github.com/justjones5/vpn-setup) 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
